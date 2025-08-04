@@ -5,7 +5,7 @@ A comprehensive full-stack web application for managing government services, bui
 ## 🏗️ Project Structure
 
 ```
-government-services-platform/
+government-services-platform/XAAXaXAX
 ├── frontend/                 # React frontend application
 │   ├── src/
 │   │   ├── components/       # Reusable UI components
